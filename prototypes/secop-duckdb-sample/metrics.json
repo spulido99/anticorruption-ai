@@ -1,0 +1,116 @@
+{
+  "api": {
+    "total_rows": 5657593,
+    "non_null": {
+      "nit_entidad": 5657593,
+      "documento_proveedor": 5657593,
+      "tipodocproveedor": 5657593,
+      "proveedor_adjudicado": 5657593,
+      "id_contrato": 5657593,
+      "proceso_de_compra": 5657593,
+      "valor_del_contrato": 5657593,
+      "valor_pagado": 5657593,
+      "fecha_de_firma": 5248424,
+      "fecha_de_inicio_del_contrato": 5228412,
+      "urlproceso": 5657593,
+      "codigo_proveedor": 5657593,
+      "nombre_supervisor": 5657593,
+      "objeto_del_contrato": 5657593,
+      "departamento": 5657593
+    },
+    "placeholders": {
+      "documento_proveedor": 171589,
+      "tipodocproveedor": 164635
+    },
+    "nit_entidad_over_9_digits": 478330,
+    "valor_zero": 193827,
+    "valor_negative": 0,
+    "rows_by_firma_year": {
+      "2015": 10,
+      "2016": 1341,
+      "2017": 22227,
+      "2018": 142670,
+      "2019": 142442,
+      "2020": 356631,
+      "2021": 560457,
+      "2022": 707787,
+      "2023": 835477,
+      "2024": 881986,
+      "2025": 1016950,
+      "2026": 580446,
+      "None": 409169
+    },
+    "dup_id_contrato_sample": [
+      {
+        "id_contrato": "CO1.PCCNTR.3998154",
+        "n": "2"
+      },
+      {
+        "id_contrato": "CO1.PCCNTR.4000160",
+        "n": "2"
+      },
+      {
+        "id_contrato": "CO1.PCCNTR.4008577",
+        "n": "2"
+      },
+      {
+        "id_contrato": "CO1.PCCNTR.4008872",
+        "n": "2"
+      },
+      {
+        "id_contrato": "CO1.PCCNTR.4008952",
+        "n": "2"
+      },
+      {
+        "id_contrato": "CO1.PCCNTR.4009035",
+        "n": "2"
+      },
+      {
+        "id_contrato": "CO1.PCCNTR.4009105",
+        "n": "2"
+      },
+      {
+        "id_contrato": "CO1.PCCNTR.4009175",
+        "n": "2"
+      },
+      {
+        "id_contrato": "CO1.PCCNTR.4028558",
+        "n": "2"
+      },
+      {
+        "id_contrato": "CO1.PCCNTR.4056367",
+        "n": "2"
+      }
+    ]
+  },
+  "sample": {
+    "contracts_rows": 101351,
+    "processes_rows": 20000,
+    "contracts_cols": 84,
+    "dup_id_contrato_in_sample": 4,
+    "nit_entidad_length_dist": {
+      "9": 93516,
+      "10": 7747,
+      "8": 86,
+      "7": 2
+    },
+    "nit_entidad_non_numeric": 0,
+    "doc_proveedor_placeholder": 1212,
+    "doc_proveedor_non_numeric": 1383,
+    "fecha_firma_unparseable": 0,
+    "fecha_inicio_out_of_range": 0,
+    "valor_unparseable": 0,
+    "valor_over_1e12": 2,
+    "contracts_noticeuid_extractable": 101350,
+    "processes_noticeuid_extractable": 6853,
+    "id_contrato_pccntr_pct": 100.0,
+    "proceso_bdos_pct": 100.0
+  },
+  "feasibility": {
+    "download_bytes": 192943124,
+    "download_secs": 104.2,
+    "duckdb_bytes": 51392512,
+    "duckdb_bytes_per_row": 423.5,
+    "csv_bytes_per_row": 1590.0
+  }
+}
