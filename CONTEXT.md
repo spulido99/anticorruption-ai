@@ -7,7 +7,8 @@ El mapa del proyecto vive en el issue [Mapa: IA anticorrupción para contrataci�
 ## Glosario
 
 - **Entidad (compradora)**: organismo público (municipal, departamental o nacional) que contrata. Identificada por NIT.
-- **Contratista**: persona natural o jurídica que recibe un contrato. Identificada por NIT/cédula. No usar "proveedor" como sinónimo hasta que el modelo de datos lo resuelva.
+- **Contratista**: persona natural o jurídica que recibe un contrato. Su identidad es la pareja tipo de documento + número normalizado (cédulas, NITs y documentos extranjeros son espacios distintos). *Evitar*: "proveedor" (es el nombre del campo en SECOP II, no el término del dominio).
+- **Contratista no resuelto**: contrato cuyo documento de contratista es un placeholder (`'No Definido'`, `0`, vacío). Se cuenta, no se descarta: la opacidad es en sí una señal.
 - **Proceso**: el proceso de contratación (licitación, contratación directa, etc.) que puede resultar en uno o más contratos.
 - **Contrato**: el acuerdo adjudicado — la unidad central de análisis.
 - **Red flag**: indicador computable sobre los datos de contratación que señala riesgo de corrupción o ineficiencia. Un red flag NO es prueba de corrupción; es una señal que requiere verificación humana.
@@ -18,4 +19,4 @@ El mapa del proyecto vive en el issue [Mapa: IA anticorrupción para contrataci�
 
 ## Decisiones vigentes
 
-Las decisiones de arquitectura se registran como ADRs en `docs/adr/` (aún no existe — se crea con la primera). Las decisiones de producto viven en el mapa (issue #1, "Decisions so far").
+Las decisiones de arquitectura se registran como ADRs en [`docs/adr/`](docs/adr/). Las decisiones de producto viven en el mapa (issue #1, "Decisions so far").
