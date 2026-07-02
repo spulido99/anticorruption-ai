@@ -1,0 +1,3581 @@
+{
+ "window_since": "2022-01-01T00:00:00",
+ "contracts_by_dept_modalidad": [
+  {
+   "departamento": "Amazonas",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "21",
+   "valor": "4765910067"
+  },
+  {
+   "departamento": "Amazonas",
+   "modalidad": "Contratación directa",
+   "n": "10888",
+   "valor": "377260692870"
+  },
+  {
+   "departamento": "Amazonas",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "11",
+   "valor": "93672492"
+  },
+  {
+   "departamento": "Amazonas",
+   "modalidad": "Contratación régimen especial",
+   "n": "103",
+   "valor": "154513970619"
+  },
+  {
+   "departamento": "Amazonas",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "12",
+   "valor": "53412903279"
+  },
+  {
+   "departamento": "Amazonas",
+   "modalidad": "Licitación pública",
+   "n": "11",
+   "valor": "23268863246"
+  },
+  {
+   "departamento": "Amazonas",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "9",
+   "valor": "21385248823"
+  },
+  {
+   "departamento": "Amazonas",
+   "modalidad": "Mínima cuantía",
+   "n": "1100",
+   "valor": "42027509724"
+  },
+  {
+   "departamento": "Amazonas",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "81",
+   "valor": "39988829602"
+  },
+  {
+   "departamento": "Amazonas",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "2",
+   "valor": "6867487638"
+  },
+  {
+   "departamento": "Amazonas",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "225",
+   "valor": "210459605716"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "624",
+   "valor": "472279502277"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Contratación directa",
+   "n": "332813",
+   "valor": "29995839942448"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "8699",
+   "valor": "18216274243113"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Contratación régimen especial",
+   "n": "28113",
+   "valor": "9675811256179"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "4123",
+   "valor": "4669931704656"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "13",
+   "valor": "3307441988"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "12",
+   "valor": "1609487109"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Licitación pública",
+   "n": "817",
+   "valor": "3415808656316"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "409",
+   "valor": "3374849748709"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Mínima cuantía",
+   "n": "23848",
+   "valor": "756834519960"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "2970",
+   "valor": "1324614731041"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "71",
+   "valor": "359153237607"
+  },
+  {
+   "departamento": "Antioquia",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "4120",
+   "valor": "2580473506908"
+  },
+  {
+   "departamento": "Arauca",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "196",
+   "valor": "74364332621"
+  },
+  {
+   "departamento": "Arauca",
+   "modalidad": "Contratación directa",
+   "n": "11993",
+   "valor": "477137398307"
+  },
+  {
+   "departamento": "Arauca",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "128",
+   "valor": "15507406377"
+  },
+  {
+   "departamento": "Arauca",
+   "modalidad": "Contratación régimen especial",
+   "n": "457",
+   "valor": "156488091909"
+  },
+  {
+   "departamento": "Arauca",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "124",
+   "valor": "58833568639"
+  },
+  {
+   "departamento": "Arauca",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "5",
+   "valor": "107418814"
+  },
+  {
+   "departamento": "Arauca",
+   "modalidad": "Licitación pública",
+   "n": "88",
+   "valor": "170129844346"
+  },
+  {
+   "departamento": "Arauca",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "117",
+   "valor": "643397742481"
+  },
+  {
+   "departamento": "Arauca",
+   "modalidad": "Mínima cuantía",
+   "n": "1871",
+   "valor": "59299656015"
+  },
+  {
+   "departamento": "Arauca",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "692",
+   "valor": "144968493444"
+  },
+  {
+   "departamento": "Arauca",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "6",
+   "valor": "6442845839"
+  },
+  {
+   "departamento": "Arauca",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "306",
+   "valor": "551199831870"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "126",
+   "valor": "138358477417"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Contratación directa",
+   "n": "113909",
+   "valor": "10680806135562"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "314",
+   "valor": "102570354547"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Contratación régimen especial",
+   "n": "16639",
+   "valor": "2533320162432"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "972",
+   "valor": "1306075215190"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "4",
+   "valor": "10700183"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "5",
+   "valor": "243283375"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Licitación pública",
+   "n": "222",
+   "valor": "1929270057621"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "142",
+   "valor": "2698349018897"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Mínima cuantía",
+   "n": "4379",
+   "valor": "234083260448"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "1002",
+   "valor": "643885326629"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "18",
+   "valor": "355558238328"
+  },
+  {
+   "departamento": "Atlántico",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "385",
+   "valor": "340135691304"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "255",
+   "valor": "320995005841"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Contratación directa",
+   "n": "101475",
+   "valor": "4890263028700"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "822",
+   "valor": "984529925513"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Contratación régimen especial",
+   "n": "12327",
+   "valor": "2344994159654"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "851",
+   "valor": "1064603195232"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "2",
+   "valor": "250463800"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "6",
+   "valor": "343956275"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Licitación pública",
+   "n": "245",
+   "valor": "1643502952533"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "245",
+   "valor": "3479447148492"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Mínima cuantía",
+   "n": "4482",
+   "valor": "239762854316"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "1111",
+   "valor": "1076474591431"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "21",
+   "valor": "498133559516"
+  },
+  {
+   "departamento": "Bolívar",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "415",
+   "valor": "259475009073"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "368",
+   "valor": "108377418678"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Contratación directa",
+   "n": "77850",
+   "valor": "3671921496958"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "2809",
+   "valor": "1211842819074"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Contratación régimen especial",
+   "n": "9867",
+   "valor": "1650572984366"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "3671",
+   "valor": "2074970635849"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "8",
+   "valor": "972264446"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "11",
+   "valor": "522802906"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Licitación pública",
+   "n": "273",
+   "valor": "780711423432"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "200",
+   "valor": "698277966695"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Mínima cuantía",
+   "n": "14301",
+   "valor": "496876996353"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "2027",
+   "valor": "480826417060"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "31",
+   "valor": "71103184702"
+  },
+  {
+   "departamento": "Boyacá",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "1365",
+   "valor": "2817161343933"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "269",
+   "valor": "97504435792"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Contratación directa",
+   "n": "46259",
+   "valor": "1722142815750"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "1591",
+   "valor": "867005861372"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Contratación régimen especial",
+   "n": "11602",
+   "valor": "1443025222573"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "418",
+   "valor": "369516007692"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "8",
+   "valor": "193840564"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "18",
+   "valor": "1668861520"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Licitación pública",
+   "n": "133",
+   "valor": "602962532781"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "177",
+   "valor": "905986853483"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Mínima cuantía",
+   "n": "7272",
+   "valor": "2309992873406"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "1260",
+   "valor": "409624531957"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "12",
+   "valor": "30922211825"
+  },
+  {
+   "departamento": "Caldas",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "482",
+   "valor": "175977722509"
+  },
+  {
+   "departamento": "Caquetá",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "105",
+   "valor": "23445669096"
+  },
+  {
+   "departamento": "Caquetá",
+   "modalidad": "Contratación directa",
+   "n": "16000",
+   "valor": "600949436746"
+  },
+  {
+   "departamento": "Caquetá",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "197",
+   "valor": "209118059028"
+  },
+  {
+   "departamento": "Caquetá",
+   "modalidad": "Contratación régimen especial",
+   "n": "536",
+   "valor": "409755970033"
+  },
+  {
+   "departamento": "Caquetá",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "513",
+   "valor": "138487203997"
+  },
+  {
+   "departamento": "Caquetá",
+   "modalidad": "Licitación pública",
+   "n": "70",
+   "valor": "271880611857"
+  },
+  {
+   "departamento": "Caquetá",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "42",
+   "valor": "60299589518"
+  },
+  {
+   "departamento": "Caquetá",
+   "modalidad": "Mínima cuantía",
+   "n": "2753",
+   "valor": "98243040448"
+  },
+  {
+   "departamento": "Caquetá",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "665",
+   "valor": "438778248690"
+  },
+  {
+   "departamento": "Caquetá",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "12",
+   "valor": "38157108276"
+  },
+  {
+   "departamento": "Caquetá",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "340",
+   "valor": "159137380536"
+  },
+  {
+   "departamento": "Casanare",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "254",
+   "valor": "113945615462"
+  },
+  {
+   "departamento": "Casanare",
+   "modalidad": "Contratación directa",
+   "n": "43484",
+   "valor": "1409998792906"
+  },
+  {
+   "departamento": "Casanare",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "229",
+   "valor": "137085849921"
+  },
+  {
+   "departamento": "Casanare",
+   "modalidad": "Contratación régimen especial",
+   "n": "11823",
+   "valor": "875043438827"
+  },
+  {
+   "departamento": "Casanare",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "467",
+   "valor": "1042539053560"
+  },
+  {
+   "departamento": "Casanare",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "2",
+   "valor": "604096632"
+  },
+  {
+   "departamento": "Casanare",
+   "modalidad": "Licitación pública",
+   "n": "125",
+   "valor": "498342156591"
+  },
+  {
+   "departamento": "Casanare",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "84",
+   "valor": "275391887521"
+  },
+  {
+   "departamento": "Casanare",
+   "modalidad": "Mínima cuantía",
+   "n": "3598",
+   "valor": "155894144368"
+  },
+  {
+   "departamento": "Casanare",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "678",
+   "valor": "182066909527"
+  },
+  {
+   "departamento": "Casanare",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "15",
+   "valor": "96762038998"
+  },
+  {
+   "departamento": "Casanare",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "341",
+   "valor": "307770631613"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "137",
+   "valor": "68419718356"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Contratación directa",
+   "n": "52464",
+   "valor": "1802336479759"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "690",
+   "valor": "1058226456883"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Contratación régimen especial",
+   "n": "8626",
+   "valor": "2419189756589"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "520",
+   "valor": "526381541966"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "1",
+   "valor": "24000000"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "1",
+   "valor": "1805081"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Licitación pública",
+   "n": "107",
+   "valor": "566419824534"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "59",
+   "valor": "321557740399"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Mínima cuantía",
+   "n": "3980",
+   "valor": "157225031888"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "505",
+   "valor": "214153960618"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "10",
+   "valor": "106206293547"
+  },
+  {
+   "departamento": "Cauca",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "384",
+   "valor": "251074368337"
+  },
+  {
+   "departamento": "Cesar",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "289",
+   "valor": "288615014898"
+  },
+  {
+   "departamento": "Cesar",
+   "modalidad": "Contratación directa",
+   "n": "32990",
+   "valor": "1300470211988"
+  },
+  {
+   "departamento": "Cesar",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "255",
+   "valor": "253836792316"
+  },
+  {
+   "departamento": "Cesar",
+   "modalidad": "Contratación régimen especial",
+   "n": "7066",
+   "valor": "1415329821683"
+  },
+  {
+   "departamento": "Cesar",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "669",
+   "valor": "498962515154"
+  },
+  {
+   "departamento": "Cesar",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "2",
+   "valor": "386450000"
+  },
+  {
+   "departamento": "Cesar",
+   "modalidad": "Licitación pública",
+   "n": "170",
+   "valor": "1035426787899"
+  },
+  {
+   "departamento": "Cesar",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "176",
+   "valor": "3266497582259"
+  },
+  {
+   "departamento": "Cesar",
+   "modalidad": "Mínima cuantía",
+   "n": "2756",
+   "valor": "157463438341"
+  },
+  {
+   "departamento": "Cesar",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "581",
+   "valor": "207450673488"
+  },
+  {
+   "departamento": "Cesar",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "14",
+   "valor": "28683715662"
+  },
+  {
+   "departamento": "Cesar",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "450",
+   "valor": "366384392030"
+  },
+  {
+   "departamento": "Chocó",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "27",
+   "valor": "40596273758"
+  },
+  {
+   "departamento": "Chocó",
+   "modalidad": "Contratación directa",
+   "n": "8417",
+   "valor": "706482628362"
+  },
+  {
+   "departamento": "Chocó",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "10",
+   "valor": "3024447194"
+  },
+  {
+   "departamento": "Chocó",
+   "modalidad": "Contratación régimen especial",
+   "n": "3286",
+   "valor": "1210801298575"
+  },
+  {
+   "departamento": "Chocó",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "362",
+   "valor": "2788695140339"
+  },
+  {
+   "departamento": "Chocó",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "1",
+   "valor": "3910217"
+  },
+  {
+   "departamento": "Chocó",
+   "modalidad": "Licitación pública",
+   "n": "17",
+   "valor": "118651838487"
+  },
+  {
+   "departamento": "Chocó",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "12",
+   "valor": "15502568869"
+  },
+  {
+   "departamento": "Chocó",
+   "modalidad": "Mínima cuantía",
+   "n": "1003",
+   "valor": "46393037311"
+  },
+  {
+   "departamento": "Chocó",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "207",
+   "valor": "75426449736"
+  },
+  {
+   "departamento": "Chocó",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "53",
+   "valor": "27635086908"
+  },
+  {
+   "departamento": "Córdoba",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "196",
+   "valor": "146557237993"
+  },
+  {
+   "departamento": "Córdoba",
+   "modalidad": "Contratación directa",
+   "n": "21727",
+   "valor": "1664280147025"
+  },
+  {
+   "departamento": "Córdoba",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "391",
+   "valor": "353310407169"
+  },
+  {
+   "departamento": "Córdoba",
+   "modalidad": "Contratación régimen especial",
+   "n": "2539",
+   "valor": "1518510026350"
+  },
+  {
+   "departamento": "Córdoba",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "148",
+   "valor": "168598229358"
+  },
+  {
+   "departamento": "Córdoba",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "3",
+   "valor": "2564834"
+  },
+  {
+   "departamento": "Córdoba",
+   "modalidad": "Licitación pública",
+   "n": "99",
+   "valor": "945918853437"
+  },
+  {
+   "departamento": "Córdoba",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "130",
+   "valor": "1348594886684"
+  },
+  {
+   "departamento": "Córdoba",
+   "modalidad": "Mínima cuantía",
+   "n": "1816",
+   "valor": "94409136431"
+  },
+  {
+   "departamento": "Córdoba",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "631",
+   "valor": "373178390441"
+  },
+  {
+   "departamento": "Córdoba",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "4",
+   "valor": "77530743785"
+  },
+  {
+   "departamento": "Córdoba",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "231",
+   "valor": "134964824156"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "626",
+   "valor": "291758152896"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Contratación directa",
+   "n": "145914",
+   "valor": "7578276153235"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "1213",
+   "valor": "1089399561872"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Contratación régimen especial",
+   "n": "32453",
+   "valor": "1794963428796"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "1405",
+   "valor": "1296184231505"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "7",
+   "valor": "1301218806"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "13",
+   "valor": "113369002"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Licitación pública",
+   "n": "709",
+   "valor": "2829697437132"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "372",
+   "valor": "1802801265615"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Mínima cuantía",
+   "n": "13233",
+   "valor": "396669145818"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "3084",
+   "valor": "1768822903504"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "67",
+   "valor": "229328436982"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "1550",
+   "valor": "580797796162"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "3467",
+   "valor": "7049256290616"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Concurso de méritos con precalificación",
+   "n": "8",
+   "valor": "16102468778"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Contratación directa",
+   "n": "902953",
+   "valor": "80460947485377"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "9114",
+   "valor": "39727835540026"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Contratación régimen especial",
+   "n": "187906",
+   "valor": "30536309138251"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "8379",
+   "valor": "15592384454070"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "33",
+   "valor": "32196584354"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "43",
+   "valor": "5579568733"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Licitación pública",
+   "n": "3625",
+   "valor": "24263279371976"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Licitación Pública Acuerdo Marco de Precios",
+   "n": "670",
+   "valor": "1889952"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "1620",
+   "valor": "25226050271921"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Mínima cuantía",
+   "n": "33563",
+   "valor": "1448246332383"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "8643",
+   "valor": "19464590490522"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "330",
+   "valor": "4314822307943"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "11317",
+   "valor": "14840233595802"
+  },
+  {
+   "departamento": "Guainía",
+   "modalidad": "Contratación directa",
+   "n": "1949",
+   "valor": "63154024290"
+  },
+  {
+   "departamento": "Guainía",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "6",
+   "valor": "387937653"
+  },
+  {
+   "departamento": "Guainía",
+   "modalidad": "Contratación régimen especial",
+   "n": "72",
+   "valor": "76772465030"
+  },
+  {
+   "departamento": "Guainía",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "6",
+   "valor": "10057955793"
+  },
+  {
+   "departamento": "Guainía",
+   "modalidad": "Mínima cuantía",
+   "n": "375",
+   "valor": "14546166001"
+  },
+  {
+   "departamento": "Guainía",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "23",
+   "valor": "10553205931"
+  },
+  {
+   "departamento": "Guainía",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "7",
+   "valor": "1806919881"
+  },
+  {
+   "departamento": "Guaviare",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "5",
+   "valor": "435270958"
+  },
+  {
+   "departamento": "Guaviare",
+   "modalidad": "Contratación directa",
+   "n": "2071",
+   "valor": "68793344635"
+  },
+  {
+   "departamento": "Guaviare",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "13",
+   "valor": "1318088776"
+  },
+  {
+   "departamento": "Guaviare",
+   "modalidad": "Contratación régimen especial",
+   "n": "84",
+   "valor": "83109744858"
+  },
+  {
+   "departamento": "Guaviare",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "37",
+   "valor": "10380612921"
+  },
+  {
+   "departamento": "Guaviare",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "1",
+   "valor": "24790491"
+  },
+  {
+   "departamento": "Guaviare",
+   "modalidad": "Licitación pública",
+   "n": "1",
+   "valor": "586332367"
+  },
+  {
+   "departamento": "Guaviare",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "2",
+   "valor": "3202979999"
+  },
+  {
+   "departamento": "Guaviare",
+   "modalidad": "Mínima cuantía",
+   "n": "466",
+   "valor": "16517547178"
+  },
+  {
+   "departamento": "Guaviare",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "74",
+   "valor": "19781954516"
+  },
+  {
+   "departamento": "Guaviare",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "27",
+   "valor": "11014259483"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "264",
+   "valor": "87214281381"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Contratación directa",
+   "n": "48616",
+   "valor": "2343258212896"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "1051",
+   "valor": "367902554741"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Contratación régimen especial",
+   "n": "9984",
+   "valor": "1334513715443"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "471",
+   "valor": "264518841891"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "1",
+   "valor": "0"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "7",
+   "valor": "857789029"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Licitación pública",
+   "n": "135",
+   "valor": "730740252734"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "170",
+   "valor": "569275281833"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Mínima cuantía",
+   "n": "5574",
+   "valor": "258881705000"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "624",
+   "valor": "238969353721"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "7",
+   "valor": "4766437970"
+  },
+  {
+   "departamento": "Huila",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "690",
+   "valor": "258672545983"
+  },
+  {
+   "departamento": "La Guajira",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "124",
+   "valor": "80245111429"
+  },
+  {
+   "departamento": "La Guajira",
+   "modalidad": "Contratación directa",
+   "n": "17897",
+   "valor": "2218064456773"
+  },
+  {
+   "departamento": "La Guajira",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "241",
+   "valor": "359182593093"
+  },
+  {
+   "departamento": "La Guajira",
+   "modalidad": "Contratación régimen especial",
+   "n": "2067",
+   "valor": "3049112092750"
+  },
+  {
+   "departamento": "La Guajira",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "832",
+   "valor": "950683799919"
+  },
+  {
+   "departamento": "La Guajira",
+   "modalidad": "Licitación pública",
+   "n": "97",
+   "valor": "438378284540"
+  },
+  {
+   "departamento": "La Guajira",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "80",
+   "valor": "345567233610"
+  },
+  {
+   "departamento": "La Guajira",
+   "modalidad": "Mínima cuantía",
+   "n": "1555",
+   "valor": "74615563191"
+  },
+  {
+   "departamento": "La Guajira",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "323",
+   "valor": "126550384237"
+  },
+  {
+   "departamento": "La Guajira",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "29",
+   "valor": "258028852887"
+  },
+  {
+   "departamento": "La Guajira",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "195",
+   "valor": "280323227305"
+  },
+  {
+   "departamento": "Magdalena",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "73",
+   "valor": "200096053513"
+  },
+  {
+   "departamento": "Magdalena",
+   "modalidad": "Contratación directa",
+   "n": "36239",
+   "valor": "2826630692236"
+  },
+  {
+   "departamento": "Magdalena",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "18",
+   "valor": "23437608822"
+  },
+  {
+   "departamento": "Magdalena",
+   "modalidad": "Contratación régimen especial",
+   "n": "56551",
+   "valor": "2218930953264"
+  },
+  {
+   "departamento": "Magdalena",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "399",
+   "valor": "579522438967"
+  },
+  {
+   "departamento": "Magdalena",
+   "modalidad": "Licitación pública",
+   "n": "84",
+   "valor": "697705980222"
+  },
+  {
+   "departamento": "Magdalena",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "82",
+   "valor": "2812948689957"
+  },
+  {
+   "departamento": "Magdalena",
+   "modalidad": "Mínima cuantía",
+   "n": "2135",
+   "valor": "86217031422"
+  },
+  {
+   "departamento": "Magdalena",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "242",
+   "valor": "120899734684"
+  },
+  {
+   "departamento": "Magdalena",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "9",
+   "valor": "161977367653"
+  },
+  {
+   "departamento": "Magdalena",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "150",
+   "valor": "179828729883"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "301",
+   "valor": "275516603012"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Contratación directa",
+   "n": "71239",
+   "valor": "2646751788060"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "591",
+   "valor": "300660501420"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Contratación régimen especial",
+   "n": "20537",
+   "valor": "1501570624418"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "337",
+   "valor": "423573524010"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "1",
+   "valor": "2570487"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "5",
+   "valor": "37483426"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Licitación pública",
+   "n": "255",
+   "valor": "1496828653189"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "150",
+   "valor": "2090436224467"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Mínima cuantía",
+   "n": "6708",
+   "valor": "303087618444"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "1177",
+   "valor": "415635378456"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "15",
+   "valor": "394944381878"
+  },
+  {
+   "departamento": "Meta",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "514",
+   "valor": "325479292016"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "95",
+   "valor": "40142587690"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Contratación directa",
+   "n": "51728",
+   "valor": "2331906108459"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "78",
+   "valor": "30030057696"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Contratación régimen especial",
+   "n": "8464",
+   "valor": "1582527202633"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "201",
+   "valor": "139165222039"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "106",
+   "valor": "244113904383"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "2",
+   "valor": "37849050"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Licitación pública",
+   "n": "62",
+   "valor": "478901907232"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "50",
+   "valor": "194900347594"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Mínima cuantía",
+   "n": "4278",
+   "valor": "328627767828"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "289",
+   "valor": "145611521671"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "4",
+   "valor": "46294387007"
+  },
+  {
+   "departamento": "Nariño",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "526",
+   "valor": "169332976378"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "122",
+   "valor": "77562927985"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Contratación directa",
+   "n": "40039",
+   "valor": "4048636595316"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "334",
+   "valor": "135264237945"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Contratación régimen especial",
+   "n": "25415",
+   "valor": "1458305263424"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "2006",
+   "valor": "1457356543218"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "3",
+   "valor": "296840000"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "5",
+   "valor": "143217400"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Licitación pública",
+   "n": "131",
+   "valor": "401099591669"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "54",
+   "valor": "226741310450"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Mínima cuantía",
+   "n": "6587",
+   "valor": "197802175987"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "704",
+   "valor": "184523104446"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "3",
+   "valor": "3883006588"
+  },
+  {
+   "departamento": "No Definido",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "436",
+   "valor": "172946733507"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "265",
+   "valor": "105458499878"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Contratación directa",
+   "n": "81863",
+   "valor": "2193828079663"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "560",
+   "valor": "1118456636645"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Contratación régimen especial",
+   "n": "19840",
+   "valor": "2299635999889"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "550",
+   "valor": "400356447032"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "4",
+   "valor": "22653265"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "3",
+   "valor": "109085841"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Licitación pública",
+   "n": "161",
+   "valor": "1216370225886"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "176",
+   "valor": "624283056875"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Mínima cuantía",
+   "n": "5533",
+   "valor": "276039942043"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "933",
+   "valor": "366490713458"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "17",
+   "valor": "77989422774"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "606",
+   "valor": "334544115234"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "123",
+   "valor": "64249449199"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Contratación directa",
+   "n": "20426",
+   "valor": "712905741173"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "73",
+   "valor": "17532545513"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Contratación régimen especial",
+   "n": "500",
+   "valor": "279466610267"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "187",
+   "valor": "82102143105"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "2",
+   "valor": "8455407"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "4",
+   "valor": "42868063"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Licitación pública",
+   "n": "54",
+   "valor": "407313255966"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "59",
+   "valor": "240199563055"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Mínima cuantía",
+   "n": "2085",
+   "valor": "75251228062"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "486",
+   "valor": "140795133700"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "5",
+   "valor": "37611144115"
+  },
+  {
+   "departamento": "Putumayo",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "268",
+   "valor": "170149558277"
+  },
+  {
+   "departamento": "Quindío",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "118",
+   "valor": "33681019758"
+  },
+  {
+   "departamento": "Quindío",
+   "modalidad": "Contratación directa",
+   "n": "73606",
+   "valor": "1395922652055"
+  },
+  {
+   "departamento": "Quindío",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "255",
+   "valor": "891039677971"
+  },
+  {
+   "departamento": "Quindío",
+   "modalidad": "Contratación régimen especial",
+   "n": "4770",
+   "valor": "577111586041"
+  },
+  {
+   "departamento": "Quindío",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "187",
+   "valor": "94469772930"
+  },
+  {
+   "departamento": "Quindío",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "3",
+   "valor": "19358648"
+  },
+  {
+   "departamento": "Quindío",
+   "modalidad": "Licitación pública",
+   "n": "72",
+   "valor": "285958547781"
+  },
+  {
+   "departamento": "Quindío",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "63",
+   "valor": "353970710404"
+  },
+  {
+   "departamento": "Quindío",
+   "modalidad": "Mínima cuantía",
+   "n": "3055",
+   "valor": "82872491635"
+  },
+  {
+   "departamento": "Quindío",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "690",
+   "valor": "181077334651"
+  },
+  {
+   "departamento": "Quindío",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "7",
+   "valor": "52017621019"
+  },
+  {
+   "departamento": "Quindío",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "266",
+   "valor": "82161602867"
+  },
+  {
+   "departamento": "Risaralda",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "141",
+   "valor": "90932370426"
+  },
+  {
+   "departamento": "Risaralda",
+   "modalidad": "Contratación directa",
+   "n": "71663",
+   "valor": "3703127683108"
+  },
+  {
+   "departamento": "Risaralda",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "678",
+   "valor": "264451408456"
+  },
+  {
+   "departamento": "Risaralda",
+   "modalidad": "Contratación régimen especial",
+   "n": "3978",
+   "valor": "631881995041"
+  },
+  {
+   "departamento": "Risaralda",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "210",
+   "valor": "503516844694"
+  },
+  {
+   "departamento": "Risaralda",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "1",
+   "valor": "257"
+  },
+  {
+   "departamento": "Risaralda",
+   "modalidad": "Licitación pública",
+   "n": "214",
+   "valor": "1248423433991"
+  },
+  {
+   "departamento": "Risaralda",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "66",
+   "valor": "526763084900"
+  },
+  {
+   "departamento": "Risaralda",
+   "modalidad": "Mínima cuantía",
+   "n": "4065",
+   "valor": "160675730790"
+  },
+  {
+   "departamento": "Risaralda",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "631",
+   "valor": "296958417409"
+  },
+  {
+   "departamento": "Risaralda",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "40",
+   "valor": "51714458746"
+  },
+  {
+   "departamento": "Risaralda",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "620",
+   "valor": "529794221812"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "38",
+   "valor": "40185046637"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "modalidad": "Contratación directa",
+   "n": "27372",
+   "valor": "919120649558"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "56",
+   "valor": "9900924438"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "modalidad": "Contratación régimen especial",
+   "n": "181",
+   "valor": "67749640969"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "83",
+   "valor": "42603268113"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "2",
+   "valor": "14061366"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "modalidad": "Licitación pública",
+   "n": "24",
+   "valor": "127825260317"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "29",
+   "valor": "294108515493"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "modalidad": "Mínima cuantía",
+   "n": "868",
+   "valor": "36664287119"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "124",
+   "valor": "84253689148"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "2",
+   "valor": "23333585637"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "34",
+   "valor": "25726516000"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "435",
+   "valor": "337426921864"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Contratación directa",
+   "n": "157582",
+   "valor": "4614481100806"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "1698",
+   "valor": "847661038661"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Contratación régimen especial",
+   "n": "22077",
+   "valor": "3839085559923"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "1756",
+   "valor": "981647934362"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "2",
+   "valor": "11570048200"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "3",
+   "valor": "21944700"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Licitación pública",
+   "n": "339",
+   "valor": "2683873839089"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "282",
+   "valor": "2121089708934"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Mínima cuantía",
+   "n": "8938",
+   "valor": "291932415837"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "1374",
+   "valor": "649101800304"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "20",
+   "valor": "193179202365"
+  },
+  {
+   "departamento": "Santander",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "1659",
+   "valor": "942090272247"
+  },
+  {
+   "departamento": "Sucre",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "96",
+   "valor": "54573761873"
+  },
+  {
+   "departamento": "Sucre",
+   "modalidad": "Contratación directa",
+   "n": "22770",
+   "valor": "596330288510"
+  },
+  {
+   "departamento": "Sucre",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "206",
+   "valor": "133666876913"
+  },
+  {
+   "departamento": "Sucre",
+   "modalidad": "Contratación régimen especial",
+   "n": "6213",
+   "valor": "953256185770"
+  },
+  {
+   "departamento": "Sucre",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "274",
+   "valor": "677927973173"
+  },
+  {
+   "departamento": "Sucre",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "4",
+   "valor": "312572090"
+  },
+  {
+   "departamento": "Sucre",
+   "modalidad": "Licitación pública",
+   "n": "61",
+   "valor": "328885614274"
+  },
+  {
+   "departamento": "Sucre",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "61",
+   "valor": "690477742036"
+  },
+  {
+   "departamento": "Sucre",
+   "modalidad": "Mínima cuantía",
+   "n": "1985",
+   "valor": "85422689983"
+  },
+  {
+   "departamento": "Sucre",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "402",
+   "valor": "194189539068"
+  },
+  {
+   "departamento": "Sucre",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "4",
+   "valor": "24077578926"
+  },
+  {
+   "departamento": "Sucre",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "132",
+   "valor": "79373943771"
+  },
+  {
+   "departamento": "Tolima",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "302",
+   "valor": "153943313895"
+  },
+  {
+   "departamento": "Tolima",
+   "modalidad": "Contratación directa",
+   "n": "79992",
+   "valor": "2947579834047"
+  },
+  {
+   "departamento": "Tolima",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "280",
+   "valor": "62249192441"
+  },
+  {
+   "departamento": "Tolima",
+   "modalidad": "Contratación régimen especial",
+   "n": "25225",
+   "valor": "2286193155838"
+  },
+  {
+   "departamento": "Tolima",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "804",
+   "valor": "754709514932"
+  },
+  {
+   "departamento": "Tolima",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "3",
+   "valor": "74681671"
+  },
+  {
+   "departamento": "Tolima",
+   "modalidad": "Licitación pública",
+   "n": "288",
+   "valor": "1090537449424"
+  },
+  {
+   "departamento": "Tolima",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "198",
+   "valor": "1670465356862"
+  },
+  {
+   "departamento": "Tolima",
+   "modalidad": "Mínima cuantía",
+   "n": "5943",
+   "valor": "213418478143"
+  },
+  {
+   "departamento": "Tolima",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "1070",
+   "valor": "418124953871"
+  },
+  {
+   "departamento": "Tolima",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "15",
+   "valor": "59586452326"
+  },
+  {
+   "departamento": "Tolima",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "648",
+   "valor": "396046130367"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "616",
+   "valor": "644656056217"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Contratación directa",
+   "n": "371278",
+   "valor": "15337792025179"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "3001",
+   "valor": "2776546017671"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Contratación régimen especial",
+   "n": "21589",
+   "valor": "4143066269793"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "1811",
+   "valor": "1984673872771"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Enajenación de bienes con sobre cerrado",
+   "n": "6",
+   "valor": "967209000"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "8",
+   "valor": "540690570"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Licitación pública",
+   "n": "530",
+   "valor": "3267612720440"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "388",
+   "valor": "3208455707029"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Mínima cuantía",
+   "n": "14920",
+   "valor": "612821661396"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "2998",
+   "valor": "1463709056159"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+   "n": "36",
+   "valor": "131458871520"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "1313",
+   "valor": "1077219650835"
+  },
+  {
+   "departamento": "Vaupés",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "5",
+   "valor": "1634291936"
+  },
+  {
+   "departamento": "Vaupés",
+   "modalidad": "Contratación directa",
+   "n": "963",
+   "valor": "94538122868"
+  },
+  {
+   "departamento": "Vaupés",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "1",
+   "valor": "34102848"
+  },
+  {
+   "departamento": "Vaupés",
+   "modalidad": "Contratación régimen especial",
+   "n": "39",
+   "valor": "39848763557"
+  },
+  {
+   "departamento": "Vaupés",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "4",
+   "valor": "4366665443"
+  },
+  {
+   "departamento": "Vaupés",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "1",
+   "valor": "2020478110"
+  },
+  {
+   "departamento": "Vaupés",
+   "modalidad": "Mínima cuantía",
+   "n": "212",
+   "valor": "7189282781"
+  },
+  {
+   "departamento": "Vaupés",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "3",
+   "valor": "568017951"
+  },
+  {
+   "departamento": "Vaupés",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "8",
+   "valor": "1884020620"
+  },
+  {
+   "departamento": "Vichada",
+   "modalidad": "Concurso de méritos abierto",
+   "n": "2",
+   "valor": "754070002"
+  },
+  {
+   "departamento": "Vichada",
+   "modalidad": "Contratación directa",
+   "n": "7273",
+   "valor": "109317091977"
+  },
+  {
+   "departamento": "Vichada",
+   "modalidad": "Contratación Directa (con ofertas)",
+   "n": "59",
+   "valor": "4849021972"
+  },
+  {
+   "departamento": "Vichada",
+   "modalidad": "Contratación régimen especial",
+   "n": "379",
+   "valor": "122303058565"
+  },
+  {
+   "departamento": "Vichada",
+   "modalidad": "Contratación régimen especial (con ofertas)",
+   "n": "17",
+   "valor": "50043808894"
+  },
+  {
+   "departamento": "Vichada",
+   "modalidad": "Enajenación de bienes con subasta",
+   "n": "3",
+   "valor": "33570290"
+  },
+  {
+   "departamento": "Vichada",
+   "modalidad": "Licitación pública Obra Publica",
+   "n": "2",
+   "valor": "5379338437"
+  },
+  {
+   "departamento": "Vichada",
+   "modalidad": "Mínima cuantía",
+   "n": "584",
+   "valor": "24609087304"
+  },
+  {
+   "departamento": "Vichada",
+   "modalidad": "Selección Abreviada de Menor Cuantía",
+   "n": "59",
+   "valor": "24231214098"
+  },
+  {
+   "departamento": "Vichada",
+   "modalidad": "Selección abreviada subasta inversa",
+   "n": "19",
+   "valor": "3582877217"
+  }
+ ],
+ "opacity_no_definido": [
+  {
+   "departamento": "Amazonas",
+   "n": "17"
+  },
+  {
+   "departamento": "Antioquia",
+   "n": "714"
+  },
+  {
+   "departamento": "Arauca",
+   "n": "127"
+  },
+  {
+   "departamento": "Atlántico",
+   "n": "158"
+  },
+  {
+   "departamento": "Bolívar",
+   "n": "217"
+  },
+  {
+   "departamento": "Boyacá",
+   "n": "267"
+  },
+  {
+   "departamento": "Caldas",
+   "n": "171"
+  },
+  {
+   "departamento": "Caquetá",
+   "n": "64"
+  },
+  {
+   "departamento": "Casanare",
+   "n": "236"
+  },
+  {
+   "departamento": "Cauca",
+   "n": "175"
+  },
+  {
+   "departamento": "Cesar",
+   "n": "319"
+  },
+  {
+   "departamento": "Chocó",
+   "n": "75"
+  },
+  {
+   "departamento": "Córdoba",
+   "n": "46"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "n": "390"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "n": "3176"
+  },
+  {
+   "departamento": "Guainía",
+   "n": "2"
+  },
+  {
+   "departamento": "Guaviare",
+   "n": "6"
+  },
+  {
+   "departamento": "Huila",
+   "n": "115"
+  },
+  {
+   "departamento": "La Guajira",
+   "n": "175"
+  },
+  {
+   "departamento": "Magdalena",
+   "n": "136"
+  },
+  {
+   "departamento": "Meta",
+   "n": "115"
+  },
+  {
+   "departamento": "Nariño",
+   "n": "116"
+  },
+  {
+   "departamento": "No Definido",
+   "n": "175"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "n": "106"
+  },
+  {
+   "departamento": "Putumayo",
+   "n": "37"
+  },
+  {
+   "departamento": "Quindío",
+   "n": "41"
+  },
+  {
+   "departamento": "Risaralda",
+   "n": "73"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "n": "61"
+  },
+  {
+   "departamento": "Santander",
+   "n": "205"
+  },
+  {
+   "departamento": "Sucre",
+   "n": "57"
+  },
+  {
+   "departamento": "Tolima",
+   "n": "272"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "n": "989"
+  },
+  {
+   "departamento": "Vaupés",
+   "n": "1"
+  },
+  {
+   "departamento": "Vichada",
+   "n": "8"
+  }
+ ],
+ "opacity_valor_cero": [
+  {
+   "departamento": "Amazonas",
+   "n": "63"
+  },
+  {
+   "departamento": "Antioquia",
+   "n": "3740"
+  },
+  {
+   "departamento": "Arauca",
+   "n": "135"
+  },
+  {
+   "departamento": "Atlántico",
+   "n": "417"
+  },
+  {
+   "departamento": "Bolívar",
+   "n": "461"
+  },
+  {
+   "departamento": "Boyacá",
+   "n": "608"
+  },
+  {
+   "departamento": "Caldas",
+   "n": "566"
+  },
+  {
+   "departamento": "Caquetá",
+   "n": "277"
+  },
+  {
+   "departamento": "Casanare",
+   "n": "421"
+  },
+  {
+   "departamento": "Cauca",
+   "n": "261"
+  },
+  {
+   "departamento": "Cesar",
+   "n": "215"
+  },
+  {
+   "departamento": "Chocó",
+   "n": "51"
+  },
+  {
+   "departamento": "Córdoba",
+   "n": "87"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "n": "1374"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "n": "11181"
+  },
+  {
+   "departamento": "Guainía",
+   "n": "3"
+  },
+  {
+   "departamento": "Guaviare",
+   "n": "26"
+  },
+  {
+   "departamento": "Huila",
+   "n": "332"
+  },
+  {
+   "departamento": "La Guajira",
+   "n": "88"
+  },
+  {
+   "departamento": "Magdalena",
+   "n": "108"
+  },
+  {
+   "departamento": "Meta",
+   "n": "450"
+  },
+  {
+   "departamento": "Nariño",
+   "n": "548"
+  },
+  {
+   "departamento": "No Definido",
+   "n": "592"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "n": "434"
+  },
+  {
+   "departamento": "Putumayo",
+   "n": "218"
+  },
+  {
+   "departamento": "Quindío",
+   "n": "453"
+  },
+  {
+   "departamento": "Risaralda",
+   "n": "312"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "n": "22"
+  },
+  {
+   "departamento": "Santander",
+   "n": "932"
+  },
+  {
+   "departamento": "Sucre",
+   "n": "132"
+  },
+  {
+   "departamento": "Tolima",
+   "n": "646"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "n": "1107"
+  },
+  {
+   "departamento": "Vaupés",
+   "n": "1"
+  },
+  {
+   "departamento": "Vichada",
+   "n": "9"
+  }
+ ],
+ "proc_competitive_adjudicated": [
+  {
+   "departamento": "Amazonas",
+   "n": "1665"
+  },
+  {
+   "departamento": "Antioquia",
+   "n": "43996"
+  },
+  {
+   "departamento": "Arauca",
+   "n": "3293"
+  },
+  {
+   "departamento": "Atlántico",
+   "n": "7291"
+  },
+  {
+   "departamento": "Bolívar",
+   "n": "8274"
+  },
+  {
+   "departamento": "Boyacá",
+   "n": "19736"
+  },
+  {
+   "departamento": "Caldas",
+   "n": "11846"
+  },
+  {
+   "departamento": "Caquetá",
+   "n": "4376"
+  },
+  {
+   "departamento": "Casanare",
+   "n": "5072"
+  },
+  {
+   "departamento": "Cauca",
+   "n": "4893"
+  },
+  {
+   "departamento": "Cesar",
+   "n": "3955"
+  },
+  {
+   "departamento": "Chocó",
+   "n": "1514"
+  },
+  {
+   "departamento": "Córdoba",
+   "n": "3149"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "n": "24029"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "n": "133201"
+  },
+  {
+   "departamento": "Guainía",
+   "n": "421"
+  },
+  {
+   "departamento": "Guaviare",
+   "n": "730"
+  },
+  {
+   "departamento": "Huila",
+   "n": "7919"
+  },
+  {
+   "departamento": "La Guajira",
+   "n": "2582"
+  },
+  {
+   "departamento": "Magdalena",
+   "n": "3114"
+  },
+  {
+   "departamento": "Meta",
+   "n": "10061"
+  },
+  {
+   "departamento": "Nariño",
+   "n": "14651"
+  },
+  {
+   "departamento": "No Definido",
+   "n": "9130"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "n": "8254"
+  },
+  {
+   "departamento": "Putumayo",
+   "n": "3206"
+  },
+  {
+   "departamento": "Quindío",
+   "n": "5695"
+  },
+  {
+   "departamento": "Risaralda",
+   "n": "8328"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "n": "1195"
+  },
+  {
+   "departamento": "Santander",
+   "n": "18819"
+  },
+  {
+   "departamento": "Sucre",
+   "n": "2841"
+  },
+  {
+   "departamento": "Tolima",
+   "n": "9726"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "n": "26107"
+  },
+  {
+   "departamento": "Vaupés",
+   "n": "227"
+  },
+  {
+   "departamento": "Vichada",
+   "n": "730"
+  }
+ ],
+ "proc_single_bid": [
+  {
+   "departamento": "Casanare",
+   "n": "2783"
+  },
+  {
+   "departamento": "Cundinamarca",
+   "n": "9440"
+  },
+  {
+   "departamento": "Guainía",
+   "n": "163"
+  },
+  {
+   "departamento": "Meta",
+   "n": "4829"
+  },
+  {
+   "departamento": "Tolima",
+   "n": "3680"
+  },
+  {
+   "departamento": "Antioquia",
+   "n": "14116"
+  },
+  {
+   "departamento": "Chocó",
+   "n": "573"
+  },
+  {
+   "departamento": "No Definido",
+   "n": "3400"
+  },
+  {
+   "departamento": "Boyacá",
+   "n": "10801"
+  },
+  {
+   "departamento": "Quindío",
+   "n": "1429"
+  },
+  {
+   "departamento": "Santander",
+   "n": "5518"
+  },
+  {
+   "departamento": "Caquetá",
+   "n": "2474"
+  },
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "n": "11580"
+  },
+  {
+   "departamento": "Córdoba",
+   "n": "1070"
+  },
+  {
+   "departamento": "Guaviare",
+   "n": "235"
+  },
+  {
+   "departamento": "Sucre",
+   "n": "942"
+  },
+  {
+   "departamento": "Arauca",
+   "n": "2196"
+  },
+  {
+   "departamento": "Amazonas",
+   "n": "1009"
+  },
+  {
+   "departamento": "Nariño",
+   "n": "1376"
+  },
+  {
+   "departamento": "Magdalena",
+   "n": "1081"
+  },
+  {
+   "departamento": "Norte de Santander",
+   "n": "4228"
+  },
+  {
+   "departamento": "Risaralda",
+   "n": "2359"
+  },
+  {
+   "departamento": "Vichada",
+   "n": "199"
+  },
+  {
+   "departamento": "Vaupés",
+   "n": "74"
+  },
+  {
+   "departamento": "Cesar",
+   "n": "2025"
+  },
+  {
+   "departamento": "La Guajira",
+   "n": "1464"
+  },
+  {
+   "departamento": "San Andrés, Providencia y Santa Catalina",
+   "n": "350"
+  },
+  {
+   "departamento": "Cauca",
+   "n": "1588"
+  },
+  {
+   "departamento": "Putumayo",
+   "n": "1865"
+  },
+  {
+   "departamento": "Caldas",
+   "n": "3410"
+  },
+  {
+   "departamento": "Huila",
+   "n": "2772"
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "n": "9193"
+  },
+  {
+   "departamento": "Bolívar",
+   "n": "2071"
+  },
+  {
+   "departamento": "Atlántico",
+   "n": "2100"
+  }
+ ],
+ "top_depts_by_value": [
+  {
+   "departamento": "Distrito Capital de Bogotá",
+   "valor": 262977835790704.0
+  },
+  {
+   "departamento": "Antioquia",
+   "valor": 74846787978311.0
+  },
+  {
+   "departamento": "Valle del Cauca",
+   "valor": 34649519808580.0
+  },
+  {
+   "departamento": "Atlántico",
+   "valor": 20962665921933.0
+  },
+  {
+   "departamento": "Cundinamarca",
+   "valor": 19660113101325.0
+  },
+  {
+   "departamento": "Santander",
+   "valor": 17513161787292.0
+  },
+  {
+   "departamento": "Bolívar",
+   "valor": 16802775850376.0
+  },
+  {
+   "departamento": "Boyacá",
+   "valor": 14064137754452.0
+  },
+  {
+   "departamento": "Meta",
+   "valor": 10174524643283.0
+  },
+  {
+   "departamento": "Tolima",
+   "valor": 10052928513817.0
+  },
+  {
+   "departamento": "Magdalena",
+   "valor": 9908195280623.0
+  },
+  {
+   "departamento": "Norte de Santander",
+   "valor": 9013584878483.0
+  },
+  {
+   "departamento": "Caldas",
+   "valor": 8936523771224.0
+  },
+  {
+   "departamento": "Cesar",
+   "valor": 8819507395718.0
+  }
+ ],
+ "concentration": {
+  "Distrito Capital de Bogotá": {
+   "top5": [
+    {
+     "documento_proveedor": "900082143",
+     "proveedor_adjudicado": "GECELCA S.A. E.S.P.",
+     "valor": "4205027751839",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "800096329",
+     "proveedor_adjudicado": "FINANCIERA DE DESARROLLO TERRITORIAL S.A.",
+     "valor": "4191803689439",
+     "n": "57"
+    },
+    {
+     "documento_proveedor": "899999162",
+     "proveedor_adjudicado": "AGENCIA LOGISTICA DE LAS FUERZAS MILITARES",
+     "valor": "3606100916473",
+     "n": "131"
+    },
+    {
+     "documento_proveedor": "901965187",
+     "proveedor_adjudicado": "UNION TEMPORAL INTEGRACION LOGISTICA ELECTORAL 2026",
+     "valor": "3339924733944",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "8060088733",
+     "proveedor_adjudicado": "Corporacion de Ciencia y Tecnologia para el Desarrollo de la Industria Naval, Maritima y Fluvial",
+     "valor": "2975285428870",
+     "n": "35"
+    }
+   ],
+   "total_valor": 231609790716691.0,
+   "proveedores": 355599
+  },
+  "Antioquia": {
+   "top5": [
+    {
+     "documento_proveedor": "8909801792",
+     "proveedor_adjudicado": "INSTITUTO PARA EL DESARROLLO DE ANTIOQUIA IDEA",
+     "valor": "3167359569530",
+     "n": "133"
+    },
+    {
+     "documento_proveedor": "800223337",
+     "proveedor_adjudicado": "EMPRESA DE DESARROLLO URBANO DE MEDELLIN",
+     "valor": "2462227118031",
+     "n": "68"
+    },
+    {
+     "documento_proveedor": "890984761",
+     "proveedor_adjudicado": "ESU",
+     "valor": "1867112912406",
+     "n": "199"
+    },
+    {
+     "documento_proveedor": "890903938",
+     "proveedor_adjudicado": "BANCOLOMBIA",
+     "valor": "1265704092943",
+     "n": "42"
+    },
+    {
+     "documento_proveedor": "800214750",
+     "proveedor_adjudicado": "INSTITUCIÓN UNIVERSITARIA ITM",
+     "valor": "1219619610773",
+     "n": "256"
+    }
+   ],
+   "total_valor": 71741951016101.0,
+   "proveedores": 105260
+  },
+  "Valle del Cauca": {
+   "top5": [
+    {
+     "documento_proveedor": "8600343137",
+     "proveedor_adjudicado": "Banco Davivienda",
+     "valor": "1133264215262",
+     "n": "8"
+    },
+    {
+     "documento_proveedor": "800215293",
+     "proveedor_adjudicado": "RECREAVALLE",
+     "valor": "850650082766",
+     "n": "170"
+    },
+    {
+     "documento_proveedor": "890903938",
+     "proveedor_adjudicado": "BANCOLOMBIA",
+     "valor": "525333918893",
+     "n": "8"
+    },
+    {
+     "documento_proveedor": "860003020",
+     "proveedor_adjudicado": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (OFICIAL)",
+     "valor": "500122679262",
+     "n": "13"
+    },
+    {
+     "documento_proveedor": "890300279",
+     "proveedor_adjudicado": "Banco de Occidente SA",
+     "valor": "406871660803",
+     "n": "7"
+    }
+   ],
+   "total_valor": 29020817431922.0,
+   "proveedores": 90643
+  },
+  "Atlántico": {
+   "top5": [
+    {
+     "documento_proveedor": "900249143",
+     "proveedor_adjudicado": "PUERTA DE ORO EMPRESA DE DESARROLLO CARIBE SAS",
+     "valor": "1069539700874",
+     "n": "69"
+    },
+    {
+     "documento_proveedor": "800091140",
+     "proveedor_adjudicado": "EDUBAR S.A.",
+     "valor": "1042912709173",
+     "n": "46"
+    },
+    {
+     "documento_proveedor": "890102018",
+     "proveedor_adjudicado": "DISTRITO ESPECIAL INDUSTRIAL Y PORTUARIO DE BARRANQUILLA",
+     "valor": "358962054743",
+     "n": "14"
+    },
+    {
+     "documento_proveedor": "8600343137",
+     "proveedor_adjudicado": "Banco Davivienda",
+     "valor": "358040000000",
+     "n": "6"
+    },
+    {
+     "documento_proveedor": "890103003",
+     "proveedor_adjudicado": "ALCALDÍA MUNICIPAL DE LURUACO",
+     "valor": "254121258593",
+     "n": "7"
+    }
+   ],
+   "total_valor": 19950593953211.0,
+   "proveedores": 43235
+  },
+  "Cundinamarca": {
+   "top5": [
+    {
+     "documento_proveedor": "890903938",
+     "proveedor_adjudicado": "BANCOLOMBIA",
+     "valor": "908566845884",
+     "n": "30"
+    },
+    {
+     "documento_proveedor": "860003020",
+     "proveedor_adjudicado": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (OFICIAL)",
+     "valor": "414878229100",
+     "n": "14"
+    },
+    {
+     "documento_proveedor": "860007336",
+     "proveedor_adjudicado": "CAJA COLOMBIANA DE SUBSIDIO FAMILIAR COLSUBSIDIO",
+     "valor": "337807638594",
+     "n": "209"
+    },
+    {
+     "documento_proveedor": "800037800",
+     "proveedor_adjudicado": "BANCO AGRARIO DE COLOMBIA S.A.",
+     "valor": "270904017438",
+     "n": "10"
+    },
+    {
+     "documento_proveedor": "860035827",
+     "proveedor_adjudicado": "BANCO AV VILLAS",
+     "valor": "267376645000",
+     "n": "7"
+    }
+   ],
+   "total_valor": 17267105491110.0,
+   "proveedores": 65041
+  },
+  "Santander": {
+   "top5": [
+    {
+     "documento_proveedor": "901605178",
+     "proveedor_adjudicado": "ILULED COLOMBIA S.A.S",
+     "valor": "478999170137",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "901670846",
+     "proveedor_adjudicado": "CONSORCIO PROGRESO METROPOLITANO",
+     "valor": "344883020784",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "901784115",
+     "proveedor_adjudicado": "CORPORACION DE PROFESIONALES Y ADMINISTRATIVOS DE LA SALUD DEL ORIENTE COLOMBIANO",
+     "valor": "316906963286",
+     "n": "14"
+    },
+    {
+     "documento_proveedor": "901153192",
+     "proveedor_adjudicado": "DETECCION SEGURIDAD PRIVADA LIMITADA",
+     "valor": "278685884161",
+     "n": "48"
+    },
+    {
+     "documento_proveedor": "901763246",
+     "proveedor_adjudicado": "CORPORACIN CRECER EDUCADOS",
+     "valor": "192186351648",
+     "n": "3"
+    }
+   ],
+   "total_valor": 16991308994058.0,
+   "proveedores": 58905
+  },
+  "Bolívar": {
+   "top5": [
+    {
+     "documento_proveedor": "806013568",
+     "proveedor_adjudicado": "NEURODINAMIA S.A.S.",
+     "valor": "504721000000",
+     "n": "5"
+    },
+    {
+     "documento_proveedor": "901907544",
+     "proveedor_adjudicado": "UNION TEMPORAL NUTRICION CARTAGENA - NUTRICAR",
+     "valor": "384542139555",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "8600343137",
+     "proveedor_adjudicado": "Banco Davivienda",
+     "valor": "281581628802",
+     "n": "8"
+    },
+    {
+     "documento_proveedor": "890481123",
+     "proveedor_adjudicado": "EMPRESA DE DESARROLLO URBANO DE BOLIVAR SA",
+     "valor": "274147901483",
+     "n": "92"
+    },
+    {
+     "documento_proveedor": "890904996",
+     "proveedor_adjudicado": "EMPRESAS PUBLICAS DE MEDELLIN E.S.P.",
+     "valor": "204122119743",
+     "n": "4"
+    }
+   ],
+   "total_valor": 14791100898568.0,
+   "proveedores": 36221
+  },
+  "Boyacá": {
+   "top5": [
+    {
+     "documento_proveedor": "74372236",
+     "proveedor_adjudicado": "Yesid Avila Torres",
+     "valor": "2394811171774",
+     "n": "22"
+    },
+    {
+     "documento_proveedor": "820000107",
+     "proveedor_adjudicado": "FONDO MIXTO PARA LA PROMOCION DE LA CULTURA Y LAS ARTES DE BOYACA",
+     "valor": "459342756344",
+     "n": "69"
+    },
+    {
+     "documento_proveedor": "820003876",
+     "proveedor_adjudicado": "ESE CENTRO DE SALUD SANTO ECCEHOMO",
+     "valor": "288681117560",
+     "n": "23"
+    },
+    {
+     "documento_proveedor": "890903938",
+     "proveedor_adjudicado": "BANCOLOMBIA",
+     "valor": "188904601702",
+     "n": "12"
+    },
+    {
+     "documento_proveedor": "901285377",
+     "proveedor_adjudicado": "TIERRASUA S.A.S.",
+     "valor": "156736743441",
+     "n": "38"
+    }
+   ],
+   "total_valor": 13448761249429.0,
+   "proveedores": 33400
+  },
+  "Meta": {
+   "top5": [
+    {
+     "documento_proveedor": "901667284",
+     "proveedor_adjudicado": "CONSORCIO VIAL CONEXIÓN ORINOQUIA",
+     "valor": "241542000090",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "901080502",
+     "proveedor_adjudicado": "VITALIMENTOS S.A.S",
+     "valor": "149567985183",
+     "n": "6"
+    },
+    {
+     "documento_proveedor": "901445387",
+     "proveedor_adjudicado": "ASOCIACION SUPRADEPARTAMENTAL DE MUNICIPIOS PARA EL PROGRESO",
+     "valor": "146499030185",
+     "n": "6"
+    },
+    {
+     "documento_proveedor": "901900997",
+     "proveedor_adjudicado": "UNIÓN TEMPORAL PRIMERA VIA",
+     "valor": "139198169617",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "901945862",
+     "proveedor_adjudicado": "COMPLEMENTOS PAE META",
+     "valor": "118289241370",
+     "n": "1"
+    }
+   ],
+   "total_valor": 9888533261310.0,
+   "proveedores": 29458
+  },
+  "Tolima": {
+   "top5": [
+    {
+     "documento_proveedor": "800096329",
+     "proveedor_adjudicado": "FINANCIERA DE DESARROLLO TERRITORIAL S.A.",
+     "valor": "254471266381",
+     "n": "3"
+    },
+    {
+     "documento_proveedor": "828002423",
+     "proveedor_adjudicado": "DISTRIBUIDORA COLOMBIANA DE MEDICAMENTOS  Y TECNOLOGIAS EN SALUD SAS - DISCOLMETS S.A.S",
+     "valor": "113670257891",
+     "n": "78"
+    },
+    {
+     "documento_proveedor": "800185215",
+     "proveedor_adjudicado": "SEGURIDAD TREBOL LTDA.",
+     "valor": "106182384307",
+     "n": "67"
+    },
+    {
+     "documento_proveedor": "809012539",
+     "proveedor_adjudicado": "LEON GRAFICAS S.A.S",
+     "valor": "104967821172",
+     "n": "118"
+    },
+    {
+     "documento_proveedor": "901095622",
+     "proveedor_adjudicado": "LJR TEMPORALES S.A.S",
+     "valor": "93432293861",
+     "n": "173"
+    }
+   ],
+   "total_valor": 9321357816125.0,
+   "proveedores": 33260
+  },
+  "Magdalena": {
+   "top5": [
+    {
+     "documento_proveedor": "901128252",
+     "proveedor_adjudicado": "Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+     "valor": "1155459375058",
+     "n": "35"
+    },
+    {
+     "documento_proveedor": "901974167",
+     "proveedor_adjudicado": "CONSORCIO K&G SAMUEL MEJIA",
+     "valor": "998049859557",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "901782967",
+     "proveedor_adjudicado": "CGSM4",
+     "valor": "340466351223",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "901782970",
+     "proveedor_adjudicado": "ICASM2023",
+     "valor": "330530495016",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "900330248",
+     "proveedor_adjudicado": "SERVICIOS INTEGRADOS NP SAS",
+     "valor": "101136679693",
+     "n": "42"
+    }
+   ],
+   "total_valor": 9022432956155.0,
+   "proveedores": 20338
+  },
+  "Norte de Santander": {
+   "top5": [
+    {
+     "documento_proveedor": "901485464",
+     "proveedor_adjudicado": "EMPRESA INDUSTRIAL Y COMERCIAL DEL ESTADO DEL NIVEL DEPARTAMENTAL FARO DEL CATATUMBO S.A.S.",
+     "valor": "332089801504",
+     "n": "35"
+    },
+    {
+     "documento_proveedor": "901902466",
+     "proveedor_adjudicado": "EMPRESA NACIONAL ESTATAL DE DESARROLLO TERRITORIAL S.A.S.",
+     "valor": "224999567773",
+     "n": "8"
+    },
+    {
+     "documento_proveedor": "890903938",
+     "proveedor_adjudicado": "BANCOLOMBIA",
+     "valor": "180000000000",
+     "n": "3"
+    },
+    {
+     "documento_proveedor": "900482444",
+     "proveedor_adjudicado": "SINDICATO DE PROFESIONES Y OFICIOS DE LA SALUD DE NORTE DE SANTANDER  ACTISALUD",
+     "valor": "161011408504",
+     "n": "58"
+    },
+    {
+     "documento_proveedor": "830002762",
+     "proveedor_adjudicado": "EAGLE AMERICAN DE SEGURIDAD LTDA",
+     "valor": "133930914400",
+     "n": "66"
+    }
+   ],
+   "total_valor": 8659492132636.0,
+   "proveedores": 31717
+  },
+  "Caldas": {
+   "top5": [
+    {
+     "documento_proveedor": "30310147",
+     "proveedor_adjudicado": "MARIA SORELY GRISALES / CREACIONES BJ",
+     "valor": "2115646650054",
+     "n": "28"
+    },
+    {
+     "documento_proveedor": "901892353",
+     "proveedor_adjudicado": "UNIÓN TEMPORAL SANTA SOFÍA",
+     "valor": "124809071570",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "901740908",
+     "proveedor_adjudicado": "CONSORCIO SAN MIGUEL",
+     "valor": "114394614647",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "890801059",
+     "proveedor_adjudicado": "INSTITUTO DE FINANCIAMIENTO PROMOCIÓN Y DESARROLLO DE MANIZALES - INFI-MANIZALES",
+     "valor": "113445787252",
+     "n": "22"
+    },
+    {
+     "documento_proveedor": "901403758",
+     "proveedor_adjudicado": "PROMUEVE MAS S.A.S.",
+     "valor": "77505672682",
+     "n": "29"
+    }
+   ],
+   "total_valor": 8204872916405.0,
+   "proveedores": 21649
+  },
+  "Cesar": {
+   "top5": [
+    {
+     "documento_proveedor": "901619195",
+     "proveedor_adjudicado": "CONSORCIO INFRAESTRUCTURA VIAL DEL CESAR",
+     "valor": "607492792932",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "892300318",
+     "proveedor_adjudicado": "DIOCESIS DE VALLEDUPAR",
+     "valor": "176296490998",
+     "n": "27"
+    },
+    {
+     "documento_proveedor": "901993146",
+     "proveedor_adjudicado": "CONSORCIO AVENIDA DEL RIO",
+     "valor": "166907695693",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "901902167",
+     "proveedor_adjudicado": "CONSORCIO ANILLO CIRCUNVALAR",
+     "valor": "150377493808",
+     "n": "1"
+    },
+    {
+     "documento_proveedor": "901567316",
+     "proveedor_adjudicado": "CONSORCIO INSTITUCIONES EDUCATIVAS",
+     "valor": "128250991962",
+     "n": "1"
+    }
+   ],
+   "total_valor": 7172861584386.0,
+   "proveedores": 15293
+  }
+ }
+}
