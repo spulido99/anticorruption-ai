@@ -1,0 +1,24 @@
+[project]
+name = "anticorruption-ai"
+version = "0.1.0"
+description = "AI agents and skills to analyze Colombian public procurement (SECOP)"
+requires-python = ">=3.11"
+dependencies = [
+    "duckdb>=1.1",
+    "requests>=2.32",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/secop"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
