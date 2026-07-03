@@ -20,7 +20,10 @@ COMPETITIVE = (
 )
 
 # Reference values from docs/research/seleccion-ambito-piloto.md (#7),
-# computed 2026-07-02 over the live API.
+# computed 2026-07-02 over the live API. #7's semantics, reverse-checked
+# against its committed metrics.json: API row grain (no dedup), uncapped value
+# sums, and 'directa' = exactly the two direct-contracting modalidades.
+# Counts drift a few rows per daily dataset update; percentages are stable.
 EXPECTED = {
     "boyaca_competitivos": 19_736,
     "boyaca_sb_pct": 54.7,
@@ -45,16 +48,17 @@ def check_counts(con, client):
 
 
 def _sb(con, departamento):
+    # Raw grain: #7 counted API rows, before core's exact-duplicate removal.
     comp = ", ".join(f"'{m}'" for m in COMPETITIVE)
     dept_filter = "" if departamento is None else \
         f"AND departamento_entidad = '{departamento}'"
     n, single = con.execute(f"""
         SELECT count(*),
-               count(*) FILTER (proveedores_unicos_con = 1
-                                OR respuestas_al_procedimiento = 1)
-        FROM core.procesos
-        WHERE fecha_de_publicacion >= DATE '2022-01-01'
-          AND adjudicado
+               count(*) FILTER (TRY_CAST(proveedores_unicos_con AS INT) = 1
+                                OR TRY_CAST(respuestas_al_procedimiento AS INT) = 1)
+        FROM raw.secop2_procesos
+        WHERE fecha_de_publicacion_del >= '2022-01-01'
+          AND adjudicado = 'Si'
           AND modalidad_de_contratacion IN ({comp})
           {dept_filter}
     """).fetchone()
@@ -69,12 +73,14 @@ def reproduce_pilot_numbers(con):
     nacional = _sb(con, None)
 
     valor_bn, directa_pct = con.execute("""
-        SELECT round(sum(least(valor_del_contrato, 5e11)) / 1e12, 1),
-               round(100.0 * sum(least(valor_del_contrato, 5e11))
-                         FILTER (modalidad_de_contratacion ILIKE 'Contratación directa%')
-                     / sum(least(valor_del_contrato, 5e11)), 1)
-        FROM core.contratos
-        WHERE departamento = 'Boyacá' AND fecha_de_firma >= DATE '2022-01-01'
+        SELECT round(sum(TRY_CAST(valor_del_contrato AS DECIMAL(24,2))) / 1e12, 1),
+               round(100.0 * sum(TRY_CAST(valor_del_contrato AS DECIMAL(24,2)))
+                         FILTER (modalidad_de_contratacion IN
+                                 ('Contratación directa',
+                                  'Contratación Directa (con ofertas)'))
+                     / sum(TRY_CAST(valor_del_contrato AS DECIMAL(24,2))), 1)
+        FROM raw.secop2_contratos
+        WHERE departamento = 'Boyacá' AND fecha_de_firma >= '2022-01-01'
     """).fetchone()
 
     return {
