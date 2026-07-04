@@ -4,20 +4,7 @@ for the v1 ingest (#12)."""
 
 from .datasets import DATASETS
 from .ingest import get_state
-
-# Competitive modalidades for RF-01, as probed for #7 (see
-# docs/research/assets/seleccion-ambito-piloto/analyze.py).
-COMPETITIVE = (
-    "Licitación pública",
-    "Licitación pública Obra Publica",
-    "Licitación Pública Acuerdo Marco de Precios",
-    "Selección Abreviada de Menor Cuantía",
-    "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
-    "Selección abreviada subasta inversa",
-    "Concurso de méritos abierto",
-    "Concurso de méritos con precalificación",
-    "Mínima cuantía",
-)
+from .metrics import COMPETITIVE  # canonical owner of the modalidad lists
 
 # Reference values from docs/research/seleccion-ambito-piloto.md (#7),
 # computed 2026-07-02 over the live API. #7's semantics, reverse-checked
@@ -95,4 +82,43 @@ def reproduce_pilot_numbers(con):
                             "expected": EXPECTED["boyaca_valor_bn"]},
         "boyaca_directa_pct": {"got": float(directa_pct) if directa_pct is not None else None,
                                "expected": EXPECTED["boyaca_directa_pct"]},
+    }
+
+
+def reproduce_pilot_from_metrics(con):
+    """The #7 anchors recomputed from the metrics layer (#14's acceptance).
+
+    Grain caveat: metrics stands on core (exact duplicates removed) and its
+    value sums exclude digitation-error values, while #7 counted raw API rows
+    with uncapped sums — so counts sit slightly below EXPECTED and the value
+    figures are the sane-variant; percentages must land within a whisker."""
+    if not con.execute("""SELECT count(*) FROM information_schema.tables
+                          WHERE table_schema = 'metrics'""").fetchone()[0]:
+        return {"status": "metrics not built"}
+
+    def sb(departamento):
+        dept = "AND departamento_entidad = ?" if departamento else ""
+        n, single = con.execute(f"""
+            SELECT count(*) FILTER (es_competitivo AND adjudicado),
+                   count(*) FILTER (rf01_single_bid)
+            FROM metrics.procesos WHERE anio >= 2022 {dept}
+        """, [departamento] if departamento else []).fetchone()
+        return round(100.0 * single / n, 1) if n else None
+
+    valor_bn, directa_pct = con.execute("""
+        SELECT round(sum(valor) FILTER (NOT valor_atipico) / 1e12, 1),
+               round(100.0 * sum(valor) FILTER (es_directa AND NOT valor_atipico)
+                     / sum(valor) FILTER (NOT valor_atipico), 1)
+        FROM metrics.contratos
+        WHERE departamento = 'Boyacá' AND anio >= 2022
+    """).fetchone()
+
+    return {
+        "boyaca_sb_pct": {"got": sb("Boyacá"), "expected": EXPECTED["boyaca_sb_pct"]},
+        "narino_sb_pct": {"got": sb("Nariño"), "expected": EXPECTED["narino_sb_pct"]},
+        "nacional_sb_pct": {"got": sb(None), "expected": "~27"},
+        "boyaca_valor_bn_sano": {"got": float(valor_bn) if valor_bn is not None else None,
+                                 "expected": f"<= {EXPECTED['boyaca_valor_bn']} (sin atipicos)"},
+        "boyaca_directa_pct_sano": {"got": float(directa_pct) if directa_pct is not None else None,
+                                    "expected": f"~{EXPECTED['boyaca_directa_pct']} (sin atipicos)"},
     }

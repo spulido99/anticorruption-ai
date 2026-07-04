@@ -1,0 +1,414 @@
+{
+ "rf01_min_procesos": 20,
+ "rf05_min_contratos_12m": 20,
+ "rf05_share_outlier": 0.4,
+ "rf06_hhi_alto": 0.25,
+ "rf06_min_contratos": 10,
+ "rf06_min_contratistas": 3,
+ "rf11_min_pct": 0.5,
+ "rf01_share_outlier": {
+  "Territorial": 0.83638666188026,
+  "Nacional": 0.5637775370169734
+ },
+ "rf02_pct_directa_valor_outlier": {
+  "Corporación Autónoma": 0.9963479567055432,
+  "Nacional": 0.9690710215791483,
+  "Territorial": 0.97858871591377
+ },
+ "rf07_ventana": {
+  "Selección abreviada subasta inversa|2023": {
+   "p05": 15.0,
+   "p95": 61.0
+  },
+  "Selección Abreviada de Menor Cuantía|2017": {
+   "p05": 12.0,
+   "p95": 108.5
+  },
+  "Concurso de méritos abierto|2019": {
+   "p05": 20.0,
+   "p95": 96.0
+  },
+  "Contratación Directa (con ofertas)|2023": {
+   "p05": 0.0,
+   "p95": 26.0
+  },
+  "Selección Abreviada de Menor Cuantía|2020": {
+   "p05": 12.0,
+   "p95": 45.0
+  },
+  "Licitación pública|2025": {
+   "p05": 19.0,
+   "p95": 71.0
+  },
+  "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes|2024": {
+   "p05": 14.0,
+   "p95": 59.0
+  },
+  "Contratación Directa (con ofertas)|2018": {
+   "p05": 0.0,
+   "p95": 32.0
+  },
+  "Licitación pública|2023": {
+   "p05": 26.0,
+   "p95": 135.0
+  },
+  "Concurso de méritos abierto|2026": {
+   "p05": 13.0,
+   "p95": 69.0
+  },
+  "Mínima cuantía|2021": {
+   "p05": 5.0,
+   "p95": 27.0
+  },
+  "Licitación pública Obra Publica|2021": {
+   "p05": 27.0,
+   "p95": 98.0
+  },
+  "Mínima cuantía|2019": {
+   "p05": 5.0,
+   "p95": 31.0
+  },
+  "Mínima cuantía|2023": {
+   "p05": 6.0,
+   "p95": 28.0
+  },
+  "Licitación pública Obra Publica|2019": {
+   "p05": 41.0,
+   "p95": 1012.0
+  },
+  "Contratación régimen especial (con ofertas)|2025": {
+   "p05": 4.0,
+   "p95": 116.0
+  },
+  "Contratación Directa (con ofertas)|2021": {
+   "p05": 0.0,
+   "p95": 30.0
+  },
+  "Contratación régimen especial (con ofertas)|2017": {
+   "p05": 3.0,
+   "p95": 66.0
+  },
+  "Concurso de méritos abierto|2022": {
+   "p05": 14.0,
+   "p95": 78.0
+  },
+  "Contratación Directa (con ofertas)|2016": {
+   "p05": 0.0,
+   "p95": 15.0
+  },
+  "Licitación pública Obra Publica|2020": {
+   "p05": 34.0,
+   "p95": 135.0
+  },
+  "Licitación pública|2021": {
+   "p05": 22.0,
+   "p95": 61.0
+  },
+  "Contratación régimen especial (con ofertas)|2021": {
+   "p05": 4.0,
+   "p95": 62.0
+  },
+  "Licitación Pública Acuerdo Marco de Precios|2021": {
+   "p05": 48.0,
+   "p95": 108.0
+  },
+  "Selección Abreviada de Menor Cuantía|2019": {
+   "p05": 13.0,
+   "p95": 47.0
+  },
+  "Mínima cuantía|2018": {
+   "p05": 5.0,
+   "p95": 33.0
+  },
+  "Licitación pública Obra Publica|2018": {
+   "p05": 26.0,
+   "p95": 106.0
+  },
+  "Contratación Directa (con ofertas)|2026": {
+   "p05": 0.0,
+   "p95": 59.0
+  },
+  "Licitación pública Obra Publica|2023": {
+   "p05": 25.0,
+   "p95": 114.0
+  },
+  "Selección abreviada subasta inversa|2018": {
+   "p05": 19.0,
+   "p95": 63.0
+  },
+  "Mínima cuantía|2024": {
+   "p05": 5.0,
+   "p95": 27.0
+  },
+  "Selección Abreviada de Menor Cuantía|2023": {
+   "p05": 9.0,
+   "p95": 42.0
+  },
+  "Selección abreviada subasta inversa|2019": {
+   "p05": 19.0,
+   "p95": 70.0
+  },
+  "Contratación régimen especial (con ofertas)|2026": {
+   "p05": 3.0,
+   "p95": 57.0
+  },
+  "Licitación pública|2019": {
+   "p05": 27.0,
+   "p95": 62.0
+  },
+  "Licitación pública Obra Publica|2024": {
+   "p05": 25.0,
+   "p95": 93.0
+  },
+  "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes|2019": {
+   "p05": 15.0,
+   "p95": 85.0
+  },
+  "Selección abreviada subasta inversa|2022": {
+   "p05": 17.0,
+   "p95": 89.0
+  },
+  "Selección abreviada subasta inversa|2024": {
+   "p05": 14.0,
+   "p95": 77.0
+  },
+  "Mínima cuantía|2026": {
+   "p05": 4.0,
+   "p95": 26.0
+  },
+  "Concurso de méritos abierto|2023": {
+   "p05": 14.0,
+   "p95": 104.0
+  },
+  "Contratación régimen especial (con ofertas)|2019": {
+   "p05": 8.0,
+   "p95": 55.0
+  },
+  "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes|2022": {
+   "p05": 12.700000000000001,
+   "p95": 50.30000000000001
+  },
+  "Mínima cuantía|2022": {
+   "p05": 5.0,
+   "p95": 27.0
+  },
+  "Contratación Directa (con ofertas)|2020": {
+   "p05": 0.0,
+   "p95": 30.0
+  },
+  "Concurso de méritos abierto|2025": {
+   "p05": 13.0,
+   "p95": 79.0
+  },
+  "Licitación Pública Acuerdo Marco de Precios|2019": {
+   "p05": 56.0,
+   "p95": 184.0
+  },
+  "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes|2023": {
+   "p05": 16.0,
+   "p95": 32.0
+  },
+  "Licitación pública|2024": {
+   "p05": 19.0,
+   "p95": 63.0
+  },
+  "Selección abreviada subasta inversa|2025": {
+   "p05": 13.0,
+   "p95": 85.0
+  },
+  "Concurso de méritos abierto|2020": {
+   "p05": 19.0,
+   "p95": 175.0
+  },
+  "Licitación Pública Acuerdo Marco de Precios|2024": {
+   "p05": 74.0,
+   "p95": 272.0
+  },
+  "Selección Abreviada de Menor Cuantía|2025": {
+   "p05": 8.0,
+   "p95": 39.0
+  },
+  "Selección abreviada subasta inversa|2026": {
+   "p05": 14.0,
+   "p95": 50.0
+  },
+  "Contratación régimen especial (con ofertas)|2020": {
+   "p05": 7.0,
+   "p95": 85.0
+  },
+  "Licitación pública|2016": {
+   "p05": 30.0,
+   "p95": 181.0
+  },
+  "Licitación Pública Acuerdo Marco de Precios|2015": {
+   "p05": 99.0,
+   "p95": 212.0
+  },
+  "Concurso de méritos abierto|2021": {
+   "p05": 15.0,
+   "p95": 144.0
+  },
+  "Licitación pública Obra Publica|2025": {
+   "p05": 25.0,
+   "p95": 130.0
+  },
+  "Contratación Directa (con ofertas)|2024": {
+   "p05": 0.0,
+   "p95": 27.0
+  },
+  "Licitación pública|2018": {
+   "p05": 29.0,
+   "p95": 71.0
+  },
+  "Selección Abreviada de Menor Cuantía|2026": {
+   "p05": 8.0,
+   "p95": 37.0
+  },
+  "Concurso de méritos abierto|2017": {
+   "p05": 16.9,
+   "p95": 78.0
+  },
+  "Selección Abreviada de Menor Cuantía|2018": {
+   "p05": 13.0,
+   "p95": 46.0
+  },
+  "Contratación régimen especial (con ofertas)|2023": {
+   "p05": 5.0,
+   "p95": 73.0
+  },
+  "Contratación Directa (con ofertas)|2017": {
+   "p05": 0.0,
+   "p95": 35.0
+  },
+  "Selección abreviada subasta inversa|2020": {
+   "p05": 18.0,
+   "p95": 58.0
+  },
+  "Licitación pública|2020": {
+   "p05": 27.0,
+   "p95": 302.0
+  },
+  "Licitación pública|2017": {
+   "p05": 29.0,
+   "p95": 93.0
+  },
+  "Contratación régimen especial (con ofertas)|2022": {
+   "p05": 5.0,
+   "p95": 74.0
+  },
+  "Contratación Directa (con ofertas)|2022": {
+   "p05": 0.0,
+   "p95": 26.0
+  },
+  "Contratación régimen especial (con ofertas)|2018": {
+   "p05": 4.400000000000006,
+   "p95": 56.0
+  },
+  "Selección Abreviada de Menor Cuantía|2024": {
+   "p05": 8.0,
+   "p95": 42.0
+  },
+  "Mínima cuantía|2016": {
+   "p05": 7.0,
+   "p95": 48.89999999999998
+  },
+  "Mínima cuantía|2025": {
+   "p05": 4.0,
+   "p95": 27.0
+  },
+  "Selección abreviada subasta inversa|2021": {
+   "p05": 15.0,
+   "p95": 72.0
+  },
+  "Licitación pública Obra Publica|2022": {
+   "p05": 25.0,
+   "p95": 104.75
+  },
+  "Licitación pública|2022": {
+   "p05": 21.0,
+   "p95": 73.0
+  },
+  "Licitación pública Obra Publica|2026": {
+   "p05": 24.3,
+   "p95": 83.69999999999999
+  },
+  "Concurso de méritos abierto|2024": {
+   "p05": 13.0,
+   "p95": 79.0
+  },
+  "Contratación régimen especial (con ofertas)|2024": {
+   "p05": 4.0,
+   "p95": 77.0
+  },
+  "Mínima cuantía|2020": {
+   "p05": 5.0,
+   "p95": 28.0
+  },
+  "Selección Abreviada de Menor Cuantía|2021": {
+   "p05": 10.0,
+   "p95": 41.0
+  },
+  "Contratación Directa (con ofertas)|2025": {
+   "p05": 0.0,
+   "p95": 34.0
+  },
+  "Selección Abreviada de Menor Cuantía|2022": {
+   "p05": 9.0,
+   "p95": 48.0
+  },
+  "Mínima cuantía|2017": {
+   "p05": 7.0,
+   "p95": 56.0
+  },
+  "Selección abreviada subasta inversa|2017": {
+   "p05": 18.1,
+   "p95": 76.0
+  },
+  "Concurso de méritos abierto|2018": {
+   "p05": 20.0,
+   "p95": 103.0
+  },
+  "Licitación Pública Acuerdo Marco de Precios|2016": {
+   "p05": 61.0,
+   "p95": 91.0
+  },
+  "Licitación pública|2026": {
+   "p05": 16.0,
+   "p95": 49.0
+  },
+  "Contratación Directa (con ofertas)|2019": {
+   "p05": 0.0,
+   "p95": 34.0
+  }
+ },
+ "rf08_pct_diciembre_p90": {
+  "Corporación Autónoma": 0.272332219214606,
+  "Territorial": 0.22757338512417458,
+  "Nacional": 0.283263573546512
+ },
+ "rf08_preelectoral_p90": {
+  "Nacional": 6.0,
+  "Territorial": 5.654402292679655
+ },
+ "rf11_pct_prorroga_p90": {
+  "Comisión": 0.1495253164556962,
+  "Arrendamiento de muebles": 0.24565419115372727,
+  "Asociación Público Privada": 0.0,
+  "Interventoría": 0.5457094307561606,
+  "Consultoría": 0.41081375306178003,
+  "Comodato": 0.0,
+  "Servicios financieros": 0.4189189189189189,
+  "Suministros": 0.0,
+  "Compraventa": 0.0,
+  "Arrendamiento de inmuebles": 0.11645569620253164,
+  "Operaciones de Crédito Público": 0.0,
+  "Decreto 092 de 2017": 0.16875,
+  "Acuerdo Marco de Precios": 0.2004381161007667,
+  "Otro": 0.22932330827067668,
+  "Obra": 0.5365146694945221,
+  "Seguros": 0.15388637411459027,
+  "Prestación de servicios": 0.17318435754189943,
+  "Venta muebles": 0.5345184518451851
+ },
+ "rf19_no_evaluable": 0.34471019809244324
+}
