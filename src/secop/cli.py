@@ -12,9 +12,11 @@ import duckdb
 
 from .datasets import DATASETS
 from .ingest import load
+from .metrics import UMBRALES_PATH, calibrate, load_umbrales, run_metrics
 from .socrata import SocrataClient
 from .transform import run_transform
-from .verify import check_counts, reproduce_pilot_numbers
+from .verify import (check_counts, reproduce_pilot_from_metrics,
+                     reproduce_pilot_numbers)
 
 
 def main(argv=None):
@@ -30,6 +32,14 @@ def main(argv=None):
                         help="drop the raw table and its state, start over")
 
     sub.add_parser("transform", help="rebuild core from raw")
+
+    p_metrics = sub.add_parser("metrics", help="rebuild metrics from core")
+    p_metrics.add_argument("--calibrate", action="store_true",
+                           help="recalibrate umbrales from this datastore "
+                                "and rewrite the versioned JSON first")
+    p_metrics.add_argument("--umbrales", default=None,
+                           help="path to an umbrales JSON (default: packaged)")
+
     sub.add_parser("verify", help="counts vs API + #7 pilot numbers")
 
     args = p.parse_args(argv)
@@ -51,10 +61,25 @@ def main(argv=None):
         for t in ("contratos", "procesos", "entidades", "contratistas"):
             n = con.execute(f"SELECT count(*) FROM core.{t}").fetchone()[0]
             print(f"core.{t}: {n:,} rows")
+    elif args.cmd == "metrics":
+        path = Path(args.umbrales) if args.umbrales else UMBRALES_PATH
+        if args.calibrate:
+            umbrales = calibrate(con)
+            path.write_text(json.dumps(umbrales, ensure_ascii=False, indent=1),
+                            encoding="utf-8")
+            print(f"umbrales -> {path}")
+        else:
+            umbrales = load_umbrales(path)
+        run_metrics(con, umbrales)
+        for t in ("procesos", "contratos", "entidad_anio",
+                  "entidad_contratista_12m"):
+            n = con.execute(f"SELECT count(*) FROM metrics.{t}").fetchone()[0]
+            print(f"metrics.{t}: {n:,} rows")
     elif args.cmd == "verify":
         client = SocrataClient()
         out = {"counts": check_counts(con, client),
-               "pilot_numbers": reproduce_pilot_numbers(con)}
+               "pilot_numbers": reproduce_pilot_numbers(con),
+               "pilot_numbers_metrics": reproduce_pilot_from_metrics(con)}
         print(json.dumps(out, indent=1, ensure_ascii=False, default=str))
 
     con.close()
